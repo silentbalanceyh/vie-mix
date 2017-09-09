@@ -1,2 +1,4 @@
-# vie-mix
+# Vie Documentation
+
 Vie Server/Client Documentation
+
